@@ -1,0 +1,20 @@
+Years	Data File Name	Doc File	Data File	Date Published
+2007-2014	California - Demographic Variables & Sample Weights	CDEMO_EH Doc	RDC Only	October 2015
+1999-2006	California - Demographic Variables & Sample Weights	CDEMO_AD Doc	RDC Only	January 2016
+2019-2020	Demographic Variables	DEMO_K_R Doc	RDC Only	December 2021
+2005-2006	Demographic Variables & Sample Weights	DEMO_D Doc	DEMO_D Data [XPT - 3.4 MB]	Updated September 2009
+2007-2008	Demographic Variables & Sample Weights	DEMO_E Doc	DEMO_E Data [XPT - 3.3 MB]	September 2009
+2003-2004	Demographic Variables & Sample Weights	DEMO_C Doc	DEMO_C Data [XPT - 3.4 MB]	Updated September 2009
+2001-2002	Demographic Variables & Sample Weights	DEMO_B Doc	DEMO_B Data [XPT - 3.1 MB]	Updated September 2009
+1999-2000	Demographic Variables & Sample Weights	DEMO Doc	DEMO Data [XPT - 11 MB]	Updated September 2009
+2009-2010	Demographic Variables & Sample Weights	DEMO_F Doc	DEMO_F Data [XPT - 3.5 MB]	September 2011
+2011-2012	Demographic Variables & Sample Weights	DEMO_G Doc	DEMO_G Data [XPT - 3.6 MB]	Updated January 2015
+2013-2014	Demographic Variables and Sample Weights	DEMO_H Doc	DEMO_H Data [XPT - 3.7 MB]	October 2015
+2015-2016	Demographic Variables and Sample Weights	DEMO_I Doc	DEMO_I Data [XPT - 3.6 MB]	September 2017
+2017-2018	Demographic Variables and Sample Weights	DEMO_J Doc	DEMO_J Data [XPT - 3.3 MB]	February 2020
+2017-2020	Demographic Variables and Sample Weights	P_DEMO Doc	P_DEMO Data [XPT - 3.4 MB]	May 2021
+1999-2016	Geocoded Data, NHANES 1999-2016, Census 2000	GEO_2000 Doc	RDC Only	March 2018
+1999-2018	Geocoded Data, NHANES 1999-2018, Census 2010	GEO_2010 Doc	RDC Only	Updated July 2021
+1999-2004	Los Angeles County, California - Demographic Variables & Sample Weights	LA_DEMO Doc	RDC Only	August 2008
+1999-2006	Los Angeles County, California - Demographic Variables & Sample Weights	LDEMO_AD Doc	RDC Only	May 2015
+2007-2014	Los Angeles County, California - Demographic Variables & Sample Weights	LDEMO_EH Doc	RDC Only	October 2015
